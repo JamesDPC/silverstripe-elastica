@@ -14,9 +14,8 @@
         "issues": "http://github.com/heyday/silverstripe-elastica/issues"
     },
     "require": {
-        "php": ">=7.4",
+        "php": "^7.4 || ^8.0",
         "ruflin/elastica": "^7",
-        "elasticsearch/elasticsearch": ">=7.3.0",
         "symbiote/silverstripe-queuedjobs": "^4"
     },
     "require-dev": {
